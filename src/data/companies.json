@@ -1,0 +1,72 @@
+[
+  {
+    "name": "amazon",
+    "path": "/companies/amazon.png",
+    "id": 1
+  },
+  {
+    "name": "atlassian",
+    "path": "/companies/atlassian.png",
+    "id": 2
+  },
+  {
+    "name": "google",
+    "path": "/companies/google.png",
+    "id": 3
+  },
+  {
+    "name": "ibm",
+    "path": "/companies/ibm.png",
+    "id": 4
+  },
+  {
+    "name": "meta",
+    "path": "/companies/meta.png",
+    "id": 5
+  },
+  {
+    "name": "microsoft",
+    "path": "/companies/microsoft.png",
+    "id": 6
+  },
+  {
+    "name": "netflix",
+    "path": "/companies/netflix.png",
+    "id": 7
+  },
+  {
+    "name": "rupay",
+    "path": "/companies/rupay.png",
+    "id": 8
+  },
+  {
+    "name": "juspay",
+    "path": "/companies/juspay.png",
+    "id": 9
+  },
+  {
+    "name": "oracle",
+    "path": "/companies/oracle.png",
+    "id": 10
+  },
+  {
+    "name": "phonepe",
+    "path": "/companies/phonepe.png",
+    "id": 11
+  },
+  {
+    "name": "walmart",
+    "path": "/companies/walmart.png",
+    "id": 12
+  },
+  {
+    "name": "flipkart",
+    "path": "/companies/flipkart.png",
+    "id": 13
+  },
+  {
+    "name": "EY",
+    "path": "/companies/ey.png",
+    "id": 14
+  }
+]
