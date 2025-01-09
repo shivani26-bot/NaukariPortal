@@ -8,9 +8,6 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "engines": {
-    "node": "18.0"
-  },
   "dependencies": {
     "@clerk/clerk-react": "^5.4.2",
     "@clerk/themes": "^2.1.21",
